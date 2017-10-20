@@ -17,7 +17,7 @@ Milestones
 - Enable back camera and autorun when app opened
 - Track movement of camera and store values in X/Y variables
 - Use variables to position cursor along X/Y range
-- Create Documentation (Guide for pairing, calibrating, using Mowse)
+- Create documentation (Guide for pairing, calibrating, using Mowse, Ts&Cs agreeing to zero liability for damage to phone from use)
 - Develop monetization strategy (ads/referral/etc)
 - Launch in store
 
